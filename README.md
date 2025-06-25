@@ -5,9 +5,10 @@ FoodFuse is a responsive web application designed to connect individuals who wan
 
 ---
 
-## 🔗 Live Demo  
-Experience the live FoodFuse application here:  
-[https://food786-53dd9.web.app](https://food786-53dd9.web.app)
+## 🌐 Live Link  
+🔗 [FoodFuse Live](https://food786-53dd9.web.app)
+
+
 
 
 ---
