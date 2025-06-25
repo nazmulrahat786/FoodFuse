@@ -72,7 +72,7 @@ Experience the live FoodFuse application here:
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/Programming-Hero-Web-Course4/b11a11-client-side-nazmulrahat786.git
+https://github.com/nazmulrahat786/FoodFuse.git
 cd b11a11-client-side-nazmulrahat786
 ```
 **Install dependencies:**
