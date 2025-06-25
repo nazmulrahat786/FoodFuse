@@ -74,7 +74,7 @@ FoodFuse is a responsive web application designed to connect individuals who wan
 
 ```bash
 https://github.com/nazmulrahat786/FoodFuse.git
-cd b11a11-client-side-nazmulrahat786
+cd FoodFuse
 ```
 **Install dependencies:**
 
